@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T01:50:42.269Z",
+  "updatedAt": "2026-10-07T01:51:39.294Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -30,6 +30,16 @@
       "year": 2014,
       "action": "keep",
       "note": ""
+    },
+    {
+      "at": "2026-10-07T01:51:39.294Z",
+      "boatId": "outremer-45-2014-strategery-x",
+      "title": "Outremer 45",
+      "builder": "Outremer",
+      "model": "45",
+      "year": 2014,
+      "action": "note",
+      "note": "Good size and layout both interior and exterior. high end of budget, but move to the top of the list if the prices drops."
     }
   ],
   "byId": {
@@ -44,14 +54,14 @@
       "note": "Smoke note from the tile dashboard."
     },
     "outremer-45-2014-strategery-x": {
-      "at": "2026-10-07T01:50:42.269Z",
+      "at": "2026-10-07T01:51:39.294Z",
       "boatId": "outremer-45-2014-strategery-x",
       "title": "Outremer 45",
       "builder": "Outremer",
       "model": "45",
       "year": 2014,
-      "action": "keep",
-      "note": ""
+      "action": "note",
+      "note": "Good size and layout both interior and exterior. high end of budget, but move to the top of the list if the prices drops."
     }
   }
 }
