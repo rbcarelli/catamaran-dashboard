@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T01:42:10.802Z",
+  "updatedAt": "2026-10-07T01:50:42.269Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -20,6 +20,16 @@
       "year": null,
       "action": "note",
       "note": "Smoke note from the tile dashboard."
+    },
+    {
+      "at": "2026-10-07T01:50:42.269Z",
+      "boatId": "outremer-45-2014-strategery-x",
+      "title": "Outremer 45",
+      "builder": "Outremer",
+      "model": "45",
+      "year": 2014,
+      "action": "keep",
+      "note": ""
     }
   ],
   "byId": {
@@ -32,6 +42,16 @@
       "year": null,
       "action": "note",
       "note": "Smoke note from the tile dashboard."
+    },
+    "outremer-45-2014-strategery-x": {
+      "at": "2026-10-07T01:50:42.269Z",
+      "boatId": "outremer-45-2014-strategery-x",
+      "title": "Outremer 45",
+      "builder": "Outremer",
+      "model": "45",
+      "year": 2014,
+      "action": "keep",
+      "note": ""
     }
   }
 }
