@@ -1,0 +1,27 @@
+{
+  "updatedAt": "2026-10-07T01:37:49.607Z",
+  "items": [
+    {
+      "at": "2026-10-07T01:37:49.607Z",
+      "boatId": "crowther-35-nahant",
+      "title": "Crowther 35",
+      "builder": "Crowther",
+      "model": "35",
+      "year": null,
+      "action": "keep",
+      "note": "wiring check: keep this stale project off the shortlist unless the ad is real"
+    }
+  ],
+  "byId": {
+    "crowther-35-nahant": {
+      "at": "2026-10-07T01:37:49.607Z",
+      "boatId": "crowther-35-nahant",
+      "title": "Crowther 35",
+      "builder": "Crowther",
+      "model": "35",
+      "year": null,
+      "action": "keep",
+      "note": "wiring check: keep this stale project off the shortlist unless the ad is real"
+    }
+  }
+}
