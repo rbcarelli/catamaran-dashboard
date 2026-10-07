@@ -1,5 +1,27 @@
 {
-  "updatedAt": null,
-  "items": [],
-  "byId": {}
+  "updatedAt": "2026-10-07T01:39:48.023Z",
+  "items": [
+    {
+      "at": "2026-10-07T01:39:48.023Z",
+      "boatId": "crowther-35-nahant",
+      "title": "Crowther 35",
+      "builder": "Crowther",
+      "model": "35",
+      "year": null,
+      "action": "note",
+      "note": "Smoke note from the tile dashboard."
+    }
+  ],
+  "byId": {
+    "crowther-35-nahant": {
+      "at": "2026-10-07T01:39:48.023Z",
+      "boatId": "crowther-35-nahant",
+      "title": "Crowther 35",
+      "builder": "Crowther",
+      "model": "35",
+      "year": null,
+      "action": "note",
+      "note": "Smoke note from the tile dashboard."
+    }
+  }
 }
