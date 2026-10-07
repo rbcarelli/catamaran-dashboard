@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T01:51:39.294Z",
+  "updatedAt": "2026-10-07T01:52:42.586Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -40,6 +40,16 @@
       "year": 2014,
       "action": "note",
       "note": "Good size and layout both interior and exterior. high end of budget, but move to the top of the list if the prices drops."
+    },
+    {
+      "at": "2026-10-07T01:52:42.586Z",
+      "boatId": "crowther-spindrift-1988-stuart",
+      "title": "Crowther Spindrift",
+      "builder": "Crowther",
+      "model": "Spindrift",
+      "year": 1988,
+      "action": "note",
+      "note": "remove for being too stale"
     }
   ],
   "byId": {
@@ -62,6 +72,16 @@
       "year": 2014,
       "action": "note",
       "note": "Good size and layout both interior and exterior. high end of budget, but move to the top of the list if the prices drops."
+    },
+    "crowther-spindrift-1988-stuart": {
+      "at": "2026-10-07T01:52:42.586Z",
+      "boatId": "crowther-spindrift-1988-stuart",
+      "title": "Crowther Spindrift",
+      "builder": "Crowther",
+      "model": "Spindrift",
+      "year": 1988,
+      "action": "note",
+      "note": "remove for being too stale"
     }
   }
 }
