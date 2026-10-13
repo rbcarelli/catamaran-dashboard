@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T01:24:06.010Z",
+  "updatedAt": "2026-10-13T01:24:57.633Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -90,6 +90,16 @@
       "year": 2018,
       "action": "note",
       "note": "No daggerboards"
+    },
+    {
+      "at": "2026-10-13T01:24:57.633Z",
+      "boatId": "scape-racecruiser-2013-islamorada-in-the-florida-keys",
+      "title": "Scape Race/Cruiser",
+      "builder": "Scape",
+      "model": "Race/Cruiser",
+      "year": 2013,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -132,6 +142,16 @@
       "year": 2018,
       "action": "note",
       "note": "No daggerboards"
+    },
+    "scape-racecruiser-2013-islamorada-in-the-florida-keys": {
+      "at": "2026-10-13T01:24:57.633Z",
+      "boatId": "scape-racecruiser-2013-islamorada-in-the-florida-keys",
+      "title": "Scape Race/Cruiser",
+      "builder": "Scape",
+      "model": "Race/Cruiser",
+      "year": 2013,
+      "action": "skip",
+      "note": ""
     }
   }
 }
