@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T01:42:47.588Z",
+  "updatedAt": "2026-10-13T02:00:10.179Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -230,6 +230,16 @@
       "year": 1997,
       "action": "note",
       "note": "Too stale, remove"
+    },
+    {
+      "at": "2026-10-13T02:00:10.179Z",
+      "boatId": "windelo-50-2027-fort-lauderdale",
+      "title": "Windelo 50 Adventure",
+      "builder": "Windelo",
+      "model": "50 Adventure",
+      "year": 2027,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -392,6 +402,16 @@
       "year": 1997,
       "action": "note",
       "note": "Too stale, remove"
+    },
+    "windelo-50-2027-fort-lauderdale": {
+      "at": "2026-10-13T02:00:10.179Z",
+      "boatId": "windelo-50-2027-fort-lauderdale",
+      "title": "Windelo 50 Adventure",
+      "builder": "Windelo",
+      "model": "50 Adventure",
+      "year": 2027,
+      "action": "skip",
+      "note": ""
     }
   }
 }
