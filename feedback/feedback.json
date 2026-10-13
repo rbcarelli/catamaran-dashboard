@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:14:15.867Z",
+  "updatedAt": "2026-10-13T02:14:38.652Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -380,6 +380,16 @@
       "year": 2001,
       "action": "watch",
       "note": ""
+    },
+    {
+      "at": "2026-10-13T02:14:38.652Z",
+      "boatId": "kelsall-78-1988-cat-s-meow",
+      "title": "Kelsall Manannan 78 Custom",
+      "builder": "Kelsall",
+      "model": "Manannan 78 Custom",
+      "year": 1988,
+      "action": "note",
+      "note": "too big, remove"
     }
   ],
   "byId": {
@@ -662,6 +672,16 @@
       "year": 2001,
       "action": "watch",
       "note": ""
+    },
+    "kelsall-78-1988-cat-s-meow": {
+      "at": "2026-10-13T02:14:38.652Z",
+      "boatId": "kelsall-78-1988-cat-s-meow",
+      "title": "Kelsall Manannan 78 Custom",
+      "builder": "Kelsall",
+      "model": "Manannan 78 Custom",
+      "year": 1988,
+      "action": "note",
+      "note": "too big, remove"
     }
   }
 }
