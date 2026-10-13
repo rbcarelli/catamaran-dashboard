@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:02:12.558Z",
+  "updatedAt": "2026-10-13T02:02:26.012Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -250,6 +250,16 @@
       "year": 2023,
       "action": "watch",
       "note": ""
+    },
+    {
+      "at": "2026-10-13T02:02:26.012Z",
+      "boatId": "outremer-45-2014-strategery-x",
+      "title": "Outremer 45",
+      "builder": "Outremer",
+      "model": "45",
+      "year": 2014,
+      "action": "watch",
+      "note": "Good size and layout both interior and exterior. high end of budget, but move to the top of the list if the prices drops."
     }
   ],
   "byId": {
@@ -264,13 +274,13 @@
       "note": "Too stale, remove."
     },
     "outremer-45-2014-strategery-x": {
-      "at": "2026-10-07T01:51:39.294Z",
+      "at": "2026-10-13T02:02:26.012Z",
       "boatId": "outremer-45-2014-strategery-x",
       "title": "Outremer 45",
       "builder": "Outremer",
       "model": "45",
       "year": 2014,
-      "action": "note",
+      "action": "watch",
       "note": "Good size and layout both interior and exterior. high end of budget, but move to the top of the list if the prices drops."
     },
     "crowther-spindrift-1988-stuart": {
