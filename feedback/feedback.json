@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T01:31:36.137Z",
+  "updatedAt": "2026-10-13T01:35:56.969Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -160,6 +160,16 @@
       "year": 2002,
       "action": "note",
       "note": "Too stale, remove"
+    },
+    {
+      "at": "2026-10-13T01:35:56.969Z",
+      "boatId": "baltec-51-1998-alameda",
+      "title": "Baltec Vision 51",
+      "builder": "Baltec",
+      "model": "Vision 51",
+      "year": 1998,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -262,6 +272,16 @@
       "year": 2002,
       "action": "note",
       "note": "Too stale, remove"
+    },
+    "baltec-51-1998-alameda": {
+      "at": "2026-10-13T01:35:56.969Z",
+      "boatId": "baltec-51-1998-alameda",
+      "title": "Baltec Vision 51",
+      "builder": "Baltec",
+      "model": "Vision 51",
+      "year": 1998,
+      "action": "skip",
+      "note": ""
     }
   }
 }
