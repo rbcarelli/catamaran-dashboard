@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:00:10.179Z",
+  "updatedAt": "2026-10-13T02:02:12.558Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -240,6 +240,16 @@
       "year": 2027,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-13T02:02:12.558Z",
+      "boatId": "schionning-1280-2023-cahuna",
+      "title": "Schionning Arrow (Aarow) 1280S",
+      "builder": "Schionning",
+      "model": "Arrow (Aarow) 1280S",
+      "year": 2023,
+      "action": "watch",
+      "note": ""
     }
   ],
   "byId": {
@@ -411,6 +421,16 @@
       "model": "50 Adventure",
       "year": 2027,
       "action": "skip",
+      "note": ""
+    },
+    "schionning-1280-2023-cahuna": {
+      "at": "2026-10-13T02:02:12.558Z",
+      "boatId": "schionning-1280-2023-cahuna",
+      "title": "Schionning Arrow (Aarow) 1280S",
+      "builder": "Schionning",
+      "model": "Arrow (Aarow) 1280S",
+      "year": 2023,
+      "action": "watch",
       "note": ""
     }
   }
