@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:13:17.807Z",
+  "updatedAt": "2026-10-13T02:13:20.754Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -330,6 +330,16 @@
       "year": 2022,
       "action": "note",
       "note": "I like this model, but this boat already sold"
+    },
+    {
+      "at": "2026-10-13T02:13:20.754Z",
+      "boatId": "max-cruise-44-2022-ponce-inlet",
+      "title": "Max Cruise 44 SC",
+      "builder": "Max Cruise",
+      "model": "44 SC",
+      "year": 2022,
+      "action": "skip",
+      "note": "I like this model, but this boat already sold"
     }
   ],
   "byId": {
@@ -384,13 +394,13 @@
       "note": "Interior is too small, remove"
     },
     "max-cruise-44-2022-ponce-inlet": {
-      "at": "2026-10-13T02:13:17.807Z",
+      "at": "2026-10-13T02:13:20.754Z",
       "boatId": "max-cruise-44-2022-ponce-inlet",
       "title": "Max Cruise 44 SC",
       "builder": "Max Cruise",
       "model": "44 SC",
       "year": 2022,
-      "action": "note",
+      "action": "skip",
       "note": "I like this model, but this boat already sold"
     },
     "trt-1200-2002-nemo": {
