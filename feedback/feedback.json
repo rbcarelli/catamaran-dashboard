@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:12:55.216Z",
+  "updatedAt": "2026-10-13T02:12:59.136Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -310,6 +310,16 @@
       "year": 1996,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-13T02:12:59.136Z",
+      "boatId": "outremer-light-2007-miami",
+      "title": "Outremer Light",
+      "builder": "Outremer",
+      "model": "Light",
+      "year": 2007,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -540,6 +550,16 @@
       "builder": "Catana",
       "model": "381",
       "year": 1996,
+      "action": "skip",
+      "note": ""
+    },
+    "outremer-light-2007-miami": {
+      "at": "2026-10-13T02:12:59.136Z",
+      "boatId": "outremer-light-2007-miami",
+      "title": "Outremer Light",
+      "builder": "Outremer",
+      "model": "Light",
+      "year": 2007,
       "action": "skip",
       "note": ""
     }
