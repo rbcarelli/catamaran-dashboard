@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:02:29.709Z",
+  "updatedAt": "2026-10-13T02:09:38.009Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -270,6 +270,16 @@
       "year": 2016,
       "action": "watch",
       "note": ""
+    },
+    {
+      "at": "2026-10-13T02:09:38.009Z",
+      "boatId": "outremer-38-1998-san-rafael",
+      "title": "Outremer 38/43",
+      "builder": "Outremer",
+      "model": "38/43",
+      "year": 1998,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -461,6 +471,16 @@
       "model": "45",
       "year": 2016,
       "action": "watch",
+      "note": ""
+    },
+    "outremer-38-1998-san-rafael": {
+      "at": "2026-10-13T02:09:38.009Z",
+      "boatId": "outremer-38-1998-san-rafael",
+      "title": "Outremer 38/43",
+      "builder": "Outremer",
+      "model": "38/43",
+      "year": 1998,
+      "action": "skip",
       "note": ""
     }
   }
