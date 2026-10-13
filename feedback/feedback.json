@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T01:30:16.319Z",
+  "updatedAt": "2026-10-13T01:30:42.669Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -130,6 +130,16 @@
       "year": 2013,
       "action": "note",
       "note": "Interior is too small, remove"
+    },
+    {
+      "at": "2026-10-13T01:30:42.669Z",
+      "boatId": "maine-cat-41-2007-chesapeake-bay-and-east-coast",
+      "title": "Maine Cat maine cat 41",
+      "builder": "Maine Cat",
+      "model": "maine cat 41",
+      "year": 2007,
+      "action": "note",
+      "note": "Too stale remove"
     }
   ],
   "byId": {
@@ -202,6 +212,16 @@
       "year": 2002,
       "action": "note",
       "note": "Interior is too small, remove"
+    },
+    "maine-cat-41-2007-chesapeake-bay-and-east-coast": {
+      "at": "2026-10-13T01:30:42.669Z",
+      "boatId": "maine-cat-41-2007-chesapeake-bay-and-east-coast",
+      "title": "Maine Cat maine cat 41",
+      "builder": "Maine Cat",
+      "model": "maine cat 41",
+      "year": 2007,
+      "action": "note",
+      "note": "Too stale remove"
     }
   }
 }
