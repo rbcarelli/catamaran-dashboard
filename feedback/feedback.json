@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:13:31.685Z",
+  "updatedAt": "2026-10-13T02:13:49.267Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -350,6 +350,16 @@
       "year": 2000,
       "action": "note",
       "note": "too stale, remove"
+    },
+    {
+      "at": "2026-10-13T02:13:49.267Z",
+      "boatId": "catana-381-1998-maryland",
+      "title": "Catana C381",
+      "builder": "Catana",
+      "model": "C381",
+      "year": 1998,
+      "action": "note",
+      "note": "too stale, remove"
     }
   ],
   "byId": {
@@ -600,6 +610,16 @@
       "builder": "Catana",
       "model": "401",
       "year": 2000,
+      "action": "note",
+      "note": "too stale, remove"
+    },
+    "catana-381-1998-maryland": {
+      "at": "2026-10-13T02:13:49.267Z",
+      "boatId": "catana-381-1998-maryland",
+      "title": "Catana C381",
+      "builder": "Catana",
+      "model": "C381",
+      "year": 1998,
       "action": "note",
       "note": "too stale, remove"
     }
