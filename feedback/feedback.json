@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:12:59.136Z",
+  "updatedAt": "2026-10-13T02:13:17.807Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -320,6 +320,16 @@
       "year": 2007,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-13T02:13:17.807Z",
+      "boatId": "max-cruise-44-2022-ponce-inlet",
+      "title": "Max Cruise 44 SC",
+      "builder": "Max Cruise",
+      "model": "44 SC",
+      "year": 2022,
+      "action": "note",
+      "note": "I like this model, but this boat already sold"
     }
   ],
   "byId": {
@@ -374,7 +384,7 @@
       "note": "Interior is too small, remove"
     },
     "max-cruise-44-2022-ponce-inlet": {
-      "at": "2026-10-13T01:25:32.369Z",
+      "at": "2026-10-13T02:13:17.807Z",
       "boatId": "max-cruise-44-2022-ponce-inlet",
       "title": "Max Cruise 44 SC",
       "builder": "Max Cruise",
