@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:14:38.652Z",
+  "updatedAt": "2026-10-13T02:15:09.644Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -390,6 +390,16 @@
       "year": 1988,
       "action": "note",
       "note": "too big, remove"
+    },
+    {
+      "at": "2026-10-13T02:15:09.644Z",
+      "boatId": "custom-400-2018-duxbury-ma",
+      "title": "Custom 400",
+      "builder": "Custom",
+      "model": "400",
+      "year": 2018,
+      "action": "skip",
+      "note": "No daggerboards"
     }
   ],
   "byId": {
@@ -424,13 +434,13 @@
       "note": "remove for being too stale"
     },
     "custom-400-2018-duxbury-ma": {
-      "at": "2026-10-13T01:24:06.010Z",
+      "at": "2026-10-13T02:15:09.644Z",
       "boatId": "custom-400-2018-duxbury-ma",
       "title": "Custom 400",
       "builder": "Custom",
       "model": "400",
       "year": 2018,
-      "action": "note",
+      "action": "skip",
       "note": "No daggerboards"
     },
     "scape-racecruiser-2013-islamorada-in-the-florida-keys": {
