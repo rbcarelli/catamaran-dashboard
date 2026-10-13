@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:13:49.267Z",
+  "updatedAt": "2026-10-13T02:14:01.634Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -360,6 +360,16 @@
       "year": 1998,
       "action": "note",
       "note": "too stale, remove"
+    },
+    {
+      "at": "2026-10-13T02:14:01.634Z",
+      "boatId": "outremer-55-1997-san-francisco-bay-area",
+      "title": "Outremer 55 Light",
+      "builder": "Outremer",
+      "model": "55 Light",
+      "year": 1997,
+      "action": "note",
+      "note": "too stale, remove"
     }
   ],
   "byId": {
@@ -620,6 +630,16 @@
       "builder": "Catana",
       "model": "C381",
       "year": 1998,
+      "action": "note",
+      "note": "too stale, remove"
+    },
+    "outremer-55-1997-san-francisco-bay-area": {
+      "at": "2026-10-13T02:14:01.634Z",
+      "boatId": "outremer-55-1997-san-francisco-bay-area",
+      "title": "Outremer 55 Light",
+      "builder": "Outremer",
+      "model": "55 Light",
+      "year": 1997,
       "action": "note",
       "note": "too stale, remove"
     }
