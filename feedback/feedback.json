@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T01:31:04.207Z",
+  "updatedAt": "2026-10-13T01:31:36.137Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -150,6 +150,16 @@
       "year": 2006,
       "action": "note",
       "note": "Too stale, remove"
+    },
+    {
+      "at": "2026-10-13T01:31:36.137Z",
+      "boatId": "advanced-multihulls-390-2002-myrtle-beach",
+      "title": "Advanced Multihulls Crowther Custom Design 390",
+      "builder": "Advanced Multihulls",
+      "model": "Crowther Custom Design 390",
+      "year": 2002,
+      "action": "note",
+      "note": "Too stale, remove"
     }
   ],
   "byId": {
@@ -240,6 +250,16 @@
       "builder": "Maine Cat",
       "model": "Maine Cat 41",
       "year": 2006,
+      "action": "note",
+      "note": "Too stale, remove"
+    },
+    "advanced-multihulls-390-2002-myrtle-beach": {
+      "at": "2026-10-13T01:31:36.137Z",
+      "boatId": "advanced-multihulls-390-2002-myrtle-beach",
+      "title": "Advanced Multihulls Crowther Custom Design 390",
+      "builder": "Advanced Multihulls",
+      "model": "Crowther Custom Design 390",
+      "year": 2002,
       "action": "note",
       "note": "Too stale, remove"
     }
