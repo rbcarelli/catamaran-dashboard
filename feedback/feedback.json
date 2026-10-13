@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T01:25:32.369Z",
+  "updatedAt": "2026-10-13T01:27:42.535Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -110,6 +110,16 @@
       "year": 2022,
       "action": "note",
       "note": "I like this model, but this boat already sold"
+    },
+    {
+      "at": "2026-10-13T01:27:42.535Z",
+      "boatId": "trt-1200-2002-nemo",
+      "title": "TRT 1200cr",
+      "builder": "TRT",
+      "model": "1200cr",
+      "year": 2002,
+      "action": "note",
+      "note": "Interior is too small, remove"
     }
   ],
   "byId": {
@@ -172,6 +182,16 @@
       "year": 2022,
       "action": "note",
       "note": "I like this model, but this boat already sold"
+    },
+    "trt-1200-2002-nemo": {
+      "at": "2026-10-13T01:27:42.535Z",
+      "boatId": "trt-1200-2002-nemo",
+      "title": "TRT 1200cr",
+      "builder": "TRT",
+      "model": "1200cr",
+      "year": 2002,
+      "action": "note",
+      "note": "Interior is too small, remove"
     }
   }
 }
