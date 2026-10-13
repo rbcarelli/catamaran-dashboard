@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T01:30:42.669Z",
+  "updatedAt": "2026-10-13T01:31:04.207Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -140,6 +140,16 @@
       "year": 2007,
       "action": "note",
       "note": "Too stale remove"
+    },
+    {
+      "at": "2026-10-13T01:31:04.207Z",
+      "boatId": "maine-cat-41-2006-cambridge",
+      "title": "Maine Cat Maine Cat 41",
+      "builder": "Maine Cat",
+      "model": "Maine Cat 41",
+      "year": 2006,
+      "action": "note",
+      "note": "Too stale, remove"
     }
   ],
   "byId": {
@@ -222,6 +232,16 @@
       "year": 2007,
       "action": "note",
       "note": "Too stale remove"
+    },
+    "maine-cat-41-2006-cambridge": {
+      "at": "2026-10-13T01:31:04.207Z",
+      "boatId": "maine-cat-41-2006-cambridge",
+      "title": "Maine Cat Maine Cat 41",
+      "builder": "Maine Cat",
+      "model": "Maine Cat 41",
+      "year": 2006,
+      "action": "note",
+      "note": "Too stale, remove"
     }
   }
 }
