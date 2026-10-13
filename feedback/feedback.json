@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T01:36:48.365Z",
+  "updatedAt": "2026-10-13T01:40:39.230Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -190,6 +190,16 @@
       "year": 2002,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-13T01:40:39.230Z",
+      "boatId": "michel-francqueville-custommade-1987-ponce",
+      "title": "Michel Francqueville Custom made",
+      "builder": "Michel Francqueville",
+      "model": "Custom made",
+      "year": 1987,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -320,6 +330,16 @@
       "builder": "Catana",
       "model": "431",
       "year": 2002,
+      "action": "skip",
+      "note": ""
+    },
+    "michel-francqueville-custommade-1987-ponce": {
+      "at": "2026-10-13T01:40:39.230Z",
+      "boatId": "michel-francqueville-custommade-1987-ponce",
+      "title": "Michel Francqueville Custom made",
+      "builder": "Michel Francqueville",
+      "model": "Custom made",
+      "year": 1987,
       "action": "skip",
       "note": ""
     }
