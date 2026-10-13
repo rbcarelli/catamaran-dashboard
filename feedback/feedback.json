@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:12:05.332Z",
+  "updatedAt": "2026-10-13T02:12:55.216Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -300,6 +300,16 @@
       "year": 2000,
       "action": "watch",
       "note": ""
+    },
+    {
+      "at": "2026-10-13T02:12:55.216Z",
+      "boatId": "catana-381-1996-north-florida",
+      "title": "Catana 381",
+      "builder": "Catana",
+      "model": "381",
+      "year": 1996,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -521,6 +531,16 @@
       "model": "431 (43)",
       "year": 2000,
       "action": "watch",
+      "note": ""
+    },
+    "catana-381-1996-north-florida": {
+      "at": "2026-10-13T02:12:55.216Z",
+      "boatId": "catana-381-1996-north-florida",
+      "title": "Catana 381",
+      "builder": "Catana",
+      "model": "381",
+      "year": 1996,
+      "action": "skip",
       "note": ""
     }
   }
