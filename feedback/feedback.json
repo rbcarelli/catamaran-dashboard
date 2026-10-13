@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T01:23:31.986Z",
+  "updatedAt": "2026-10-13T01:23:36.199Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -70,6 +70,16 @@
       "year": 1988,
       "action": "note",
       "note": "remove for being too stale"
+    },
+    {
+      "at": "2026-10-13T01:23:36.199Z",
+      "boatId": "custom-400-2018-duxbury-ma",
+      "title": "Custom 400",
+      "builder": "Custom",
+      "model": "400",
+      "year": 2018,
+      "action": "note",
+      "note": ""
     }
   ],
   "byId": {
@@ -102,6 +112,16 @@
       "year": 1988,
       "action": "note",
       "note": "remove for being too stale"
+    },
+    "custom-400-2018-duxbury-ma": {
+      "at": "2026-10-13T01:23:36.199Z",
+      "boatId": "custom-400-2018-duxbury-ma",
+      "title": "Custom 400",
+      "builder": "Custom",
+      "model": "400",
+      "year": 2018,
+      "action": "note",
+      "note": ""
     }
   }
 }
