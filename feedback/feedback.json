@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:09:38.009Z",
+  "updatedAt": "2026-10-13T02:11:00.647Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -280,6 +280,16 @@
       "year": 1998,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-13T02:11:00.647Z",
+      "boatId": "maine-cat-38-2018-deltaville",
+      "title": "Maine Cat 38 Electric",
+      "builder": "Maine Cat",
+      "model": "38 Electric",
+      "year": 2018,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -480,6 +490,16 @@
       "builder": "Outremer",
       "model": "38/43",
       "year": 1998,
+      "action": "skip",
+      "note": ""
+    },
+    "maine-cat-38-2018-deltaville": {
+      "at": "2026-10-13T02:11:00.647Z",
+      "boatId": "maine-cat-38-2018-deltaville",
+      "title": "Maine Cat 38 Electric",
+      "builder": "Maine Cat",
+      "model": "38 Electric",
+      "year": 2018,
       "action": "skip",
       "note": ""
     }
