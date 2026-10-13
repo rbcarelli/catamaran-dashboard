@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:11:00.647Z",
+  "updatedAt": "2026-10-13T02:12:05.332Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -290,6 +290,16 @@
       "year": 2018,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-13T02:12:05.332Z",
+      "boatId": "catana-431-2000-la-ballona-too",
+      "title": "Catana 431 (43)",
+      "builder": "Catana",
+      "model": "431 (43)",
+      "year": 2000,
+      "action": "watch",
+      "note": ""
     }
   ],
   "byId": {
@@ -501,6 +511,16 @@
       "model": "38 Electric",
       "year": 2018,
       "action": "skip",
+      "note": ""
+    },
+    "catana-431-2000-la-ballona-too": {
+      "at": "2026-10-13T02:12:05.332Z",
+      "boatId": "catana-431-2000-la-ballona-too",
+      "title": "Catana 431 (43)",
+      "builder": "Catana",
+      "model": "431 (43)",
+      "year": 2000,
+      "action": "watch",
       "note": ""
     }
   }
