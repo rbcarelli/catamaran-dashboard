@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T01:42:40.250Z",
+  "updatedAt": "2026-10-13T01:42:47.588Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -220,6 +220,16 @@
       "year": 1997,
       "action": "note",
       "note": ""
+    },
+    {
+      "at": "2026-10-13T01:42:47.588Z",
+      "boatId": "catana-44-1997-deltaville",
+      "title": "Catana 44",
+      "builder": "Catana",
+      "model": "44",
+      "year": 1997,
+      "action": "note",
+      "note": "Too stale, remove"
     }
   ],
   "byId": {
@@ -374,14 +384,14 @@
       "note": ""
     },
     "catana-44-1997-deltaville": {
-      "at": "2026-10-13T01:42:40.250Z",
+      "at": "2026-10-13T01:42:47.588Z",
       "boatId": "catana-44-1997-deltaville",
       "title": "Catana 44",
       "builder": "Catana",
       "model": "44",
       "year": 1997,
       "action": "note",
-      "note": ""
+      "note": "Too stale, remove"
     }
   }
 }
