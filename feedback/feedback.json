@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T01:40:39.230Z",
+  "updatedAt": "2026-10-13T01:41:18.461Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -200,6 +200,16 @@
       "year": 1987,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-13T01:41:18.461Z",
+      "boatId": "gils-catamaran-60-1989-st-augustine-curently-cruising-abaco-bahamas",
+      "title": "Gils Catamaran Gils 60 Custom",
+      "builder": "Gils Catamaran",
+      "model": "Gils 60 Custom",
+      "year": 1989,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -340,6 +350,16 @@
       "builder": "Michel Francqueville",
       "model": "Custom made",
       "year": 1987,
+      "action": "skip",
+      "note": ""
+    },
+    "gils-catamaran-60-1989-st-augustine-curently-cruising-abaco-bahamas": {
+      "at": "2026-10-13T01:41:18.461Z",
+      "boatId": "gils-catamaran-60-1989-st-augustine-curently-cruising-abaco-bahamas",
+      "title": "Gils Catamaran Gils 60 Custom",
+      "builder": "Gils Catamaran",
+      "model": "Gils 60 Custom",
+      "year": 1989,
       "action": "skip",
       "note": ""
     }
