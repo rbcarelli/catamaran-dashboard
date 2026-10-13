@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:14:01.634Z",
+  "updatedAt": "2026-10-13T02:14:15.867Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -370,6 +370,16 @@
       "year": 1997,
       "action": "note",
       "note": "too stale, remove"
+    },
+    {
+      "at": "2026-10-13T02:14:15.867Z",
+      "boatId": "catana-471-2001-pippin",
+      "title": "Catana 471",
+      "builder": "Catana",
+      "model": "471",
+      "year": 2001,
+      "action": "watch",
+      "note": ""
     }
   ],
   "byId": {
@@ -642,6 +652,16 @@
       "year": 1997,
       "action": "note",
       "note": "too stale, remove"
+    },
+    "catana-471-2001-pippin": {
+      "at": "2026-10-13T02:14:15.867Z",
+      "boatId": "catana-471-2001-pippin",
+      "title": "Catana 471",
+      "builder": "Catana",
+      "model": "471",
+      "year": 2001,
+      "action": "watch",
+      "note": ""
     }
   }
 }
