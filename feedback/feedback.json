@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:13:20.754Z",
+  "updatedAt": "2026-10-13T02:13:31.685Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -340,6 +340,16 @@
       "year": 2022,
       "action": "skip",
       "note": "I like this model, but this boat already sold"
+    },
+    {
+      "at": "2026-10-13T02:13:31.685Z",
+      "boatId": "catana-401-2000-mobile",
+      "title": "Catana 401",
+      "builder": "Catana",
+      "model": "401",
+      "year": 2000,
+      "action": "note",
+      "note": "too stale, remove"
     }
   ],
   "byId": {
@@ -582,6 +592,16 @@
       "year": 2007,
       "action": "skip",
       "note": ""
+    },
+    "catana-401-2000-mobile": {
+      "at": "2026-10-13T02:13:31.685Z",
+      "boatId": "catana-401-2000-mobile",
+      "title": "Catana 401",
+      "builder": "Catana",
+      "model": "401",
+      "year": 2000,
+      "action": "note",
+      "note": "too stale, remove"
     }
   }
 }
