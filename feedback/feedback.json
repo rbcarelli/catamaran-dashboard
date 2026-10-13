@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T01:27:42.535Z",
+  "updatedAt": "2026-10-13T01:30:16.319Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -120,6 +120,16 @@
       "year": 2002,
       "action": "note",
       "note": "Interior is too small, remove"
+    },
+    {
+      "at": "2026-10-13T01:30:16.319Z",
+      "boatId": "scape-racecruiser-2013-islamorada-in-the-florida-keys",
+      "title": "Scape Race/Cruiser",
+      "builder": "Scape",
+      "model": "Race/Cruiser",
+      "year": 2013,
+      "action": "note",
+      "note": "Interior is too small, remove"
     }
   ],
   "byId": {
@@ -164,14 +174,14 @@
       "note": "No daggerboards"
     },
     "scape-racecruiser-2013-islamorada-in-the-florida-keys": {
-      "at": "2026-10-13T01:24:57.633Z",
+      "at": "2026-10-13T01:30:16.319Z",
       "boatId": "scape-racecruiser-2013-islamorada-in-the-florida-keys",
       "title": "Scape Race/Cruiser",
       "builder": "Scape",
       "model": "Race/Cruiser",
       "year": 2013,
-      "action": "skip",
-      "note": ""
+      "action": "note",
+      "note": "Interior is too small, remove"
     },
     "max-cruise-44-2022-ponce-inlet": {
       "at": "2026-10-13T01:25:32.369Z",
