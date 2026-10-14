@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T10:46:44.111Z",
+  "updatedAt": "2026-10-14T10:47:17.994Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -430,6 +430,16 @@
       "year": 2003,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-14T10:47:17.994Z",
+      "boatId": "morrelli-and-melvin-47-2003-rhatcat",
+      "title": "Morrelli and Melvin 47 Custom",
+      "builder": "Morrelli and Melvin",
+      "model": "47 Custom",
+      "year": 2003,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -749,6 +759,16 @@
       "title": "Chris White Atlantic 42",
       "builder": "Chris White",
       "model": "Atlantic 42",
+      "year": 2003,
+      "action": "skip",
+      "note": ""
+    },
+    "morrelli-and-melvin-47-2003-rhatcat": {
+      "at": "2026-10-14T10:47:17.994Z",
+      "boatId": "morrelli-and-melvin-47-2003-rhatcat",
+      "title": "Morrelli and Melvin 47 Custom",
+      "builder": "Morrelli and Melvin",
+      "model": "47 Custom",
       "year": 2003,
       "action": "skip",
       "note": ""
