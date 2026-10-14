@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T10:47:41.416Z",
+  "updatedAt": "2026-10-14T10:47:43.070Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -460,6 +460,16 @@
       "year": 1999,
       "action": "keep",
       "note": ""
+    },
+    {
+      "at": "2026-10-14T10:47:43.070Z",
+      "boatId": "technologie-marine-60-1999-cool-cat",
+      "title": "Technologie Marine Entincelle 60",
+      "builder": "Technologie Marine",
+      "model": "Entincelle 60",
+      "year": 1999,
+      "action": "watch",
+      "note": ""
     }
   ],
   "byId": {
@@ -764,13 +774,13 @@
       "note": ""
     },
     "technologie-marine-60-1999-cool-cat": {
-      "at": "2026-10-14T10:47:41.416Z",
+      "at": "2026-10-14T10:47:43.070Z",
       "boatId": "technologie-marine-60-1999-cool-cat",
       "title": "Technologie Marine Entincelle 60",
       "builder": "Technologie Marine",
       "model": "Entincelle 60",
       "year": 1999,
-      "action": "keep",
+      "action": "watch",
       "note": ""
     },
     "chris-white-42-2003-watermark": {
