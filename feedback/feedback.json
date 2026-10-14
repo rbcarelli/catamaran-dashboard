@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T10:47:34.961Z",
+  "updatedAt": "2026-10-14T10:47:41.416Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -450,6 +450,16 @@
       "year": 2012,
       "action": "watch",
       "note": ""
+    },
+    {
+      "at": "2026-10-14T10:47:41.416Z",
+      "boatId": "technologie-marine-60-1999-cool-cat",
+      "title": "Technologie Marine Entincelle 60",
+      "builder": "Technologie Marine",
+      "model": "Entincelle 60",
+      "year": 1999,
+      "action": "keep",
+      "note": ""
     }
   ],
   "byId": {
@@ -754,7 +764,7 @@
       "note": ""
     },
     "technologie-marine-60-1999-cool-cat": {
-      "at": "2026-10-14T10:46:10.014Z",
+      "at": "2026-10-14T10:47:41.416Z",
       "boatId": "technologie-marine-60-1999-cool-cat",
       "title": "Technologie Marine Entincelle 60",
       "builder": "Technologie Marine",
