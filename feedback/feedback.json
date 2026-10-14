@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:15:09.644Z",
+  "updatedAt": "2026-10-14T10:44:53.448Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -400,6 +400,16 @@
       "year": 2018,
       "action": "skip",
       "note": "No daggerboards"
+    },
+    {
+      "at": "2026-10-14T10:44:53.448Z",
+      "boatId": "outremer-55-2004-natural-mystic",
+      "title": "Outremer 55 (Standard)",
+      "builder": "Outremer",
+      "model": "55 (Standard)",
+      "year": 2004,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -692,6 +702,16 @@
       "year": 1988,
       "action": "note",
       "note": "too big, remove"
+    },
+    "outremer-55-2004-natural-mystic": {
+      "at": "2026-10-14T10:44:53.448Z",
+      "boatId": "outremer-55-2004-natural-mystic",
+      "title": "Outremer 55 (Standard)",
+      "builder": "Outremer",
+      "model": "55 (Standard)",
+      "year": 2004,
+      "action": "skip",
+      "note": ""
     }
   }
 }
