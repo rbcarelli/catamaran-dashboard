@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T10:47:17.994Z",
+  "updatedAt": "2026-10-14T10:47:34.961Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -440,6 +440,16 @@
       "year": 2003,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-14T10:47:34.961Z",
+      "boatId": "outremer-49-2012-san-diego",
+      "title": "Outremer 49",
+      "builder": "Outremer",
+      "model": "49",
+      "year": 2012,
+      "action": "watch",
+      "note": ""
     }
   ],
   "byId": {
@@ -771,6 +781,16 @@
       "model": "47 Custom",
       "year": 2003,
       "action": "skip",
+      "note": ""
+    },
+    "outremer-49-2012-san-diego": {
+      "at": "2026-10-14T10:47:34.961Z",
+      "boatId": "outremer-49-2012-san-diego",
+      "title": "Outremer 49",
+      "builder": "Outremer",
+      "model": "49",
+      "year": 2012,
+      "action": "watch",
       "note": ""
     }
   }
