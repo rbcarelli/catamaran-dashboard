@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T10:47:43.070Z",
+  "updatedAt": "2026-10-16T18:15:38.925Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -470,6 +470,16 @@
       "year": 1999,
       "action": "watch",
       "note": ""
+    },
+    {
+      "at": "2026-10-16T18:15:38.925Z",
+      "boatId": "catana-522-2006-the-white-pearl",
+      "title": "Catana 522 Ocean Class",
+      "builder": "Catana",
+      "model": "522 Ocean Class",
+      "year": 2006,
+      "action": "note",
+      "note": "The source listing doesn't bring up the boat in this tile"
     }
   ],
   "byId": {
@@ -812,6 +822,16 @@
       "year": 2012,
       "action": "watch",
       "note": ""
+    },
+    "catana-522-2006-the-white-pearl": {
+      "at": "2026-10-16T18:15:38.925Z",
+      "boatId": "catana-522-2006-the-white-pearl",
+      "title": "Catana 522 Ocean Class",
+      "builder": "Catana",
+      "model": "522 Ocean Class",
+      "year": 2006,
+      "action": "note",
+      "note": "The source listing doesn't bring up the boat in this tile"
     }
   }
 }
