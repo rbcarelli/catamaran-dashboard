@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T18:19:09.877Z",
+  "updatedAt": "2026-10-16T18:19:27.307Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -490,6 +490,16 @@
       "year": 2005,
       "action": "watch",
       "note": ""
+    },
+    {
+      "at": "2026-10-16T18:19:27.307Z",
+      "boatId": "catana-47-2010-trident-tides",
+      "title": "Catana 47",
+      "builder": "Catana",
+      "model": "47",
+      "year": 2010,
+      "action": "watch",
+      "note": ""
     }
   ],
   "byId": {
@@ -850,6 +860,16 @@
       "builder": "Chris White",
       "model": "Atlantic 48",
       "year": 2005,
+      "action": "watch",
+      "note": ""
+    },
+    "catana-47-2010-trident-tides": {
+      "at": "2026-10-16T18:19:27.307Z",
+      "boatId": "catana-47-2010-trident-tides",
+      "title": "Catana 47",
+      "builder": "Catana",
+      "model": "47",
+      "year": 2010,
       "action": "watch",
       "note": ""
     }
