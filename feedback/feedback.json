@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T18:15:38.925Z",
+  "updatedAt": "2026-10-16T18:19:09.877Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -480,6 +480,16 @@
       "year": 2006,
       "action": "note",
       "note": "The source listing doesn't bring up the boat in this tile"
+    },
+    {
+      "at": "2026-10-16T18:19:09.877Z",
+      "boatId": "chris-white-48-2005-zen",
+      "title": "Chris White Atlantic 48",
+      "builder": "Chris White",
+      "model": "Atlantic 48",
+      "year": 2005,
+      "action": "watch",
+      "note": ""
     }
   ],
   "byId": {
@@ -832,6 +842,16 @@
       "year": 2006,
       "action": "note",
       "note": "The source listing doesn't bring up the boat in this tile"
+    },
+    "chris-white-48-2005-zen": {
+      "at": "2026-10-16T18:19:09.877Z",
+      "boatId": "chris-white-48-2005-zen",
+      "title": "Chris White Atlantic 48",
+      "builder": "Chris White",
+      "model": "Atlantic 48",
+      "year": 2005,
+      "action": "watch",
+      "note": ""
     }
   }
 }
