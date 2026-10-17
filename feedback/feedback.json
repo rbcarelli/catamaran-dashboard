@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T02:00:45.553Z",
+  "updatedAt": "2026-10-17T02:01:09.807Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -520,6 +520,16 @@
       "year": 2027,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-17T02:01:09.807Z",
+      "boatId": "catamaran-400-2027-boston",
+      "title": "Dual Flyer 400",
+      "builder": "Dual Flyer",
+      "model": "400",
+      "year": 2027,
+      "action": "skip",
+      "note": "Not interested in boats that are not built yet"
     }
   ],
   "byId": {
@@ -904,14 +914,14 @@
       "note": "Confirm price. I like the interior layout of this model"
     },
     "catamaran-400-2027-boston": {
-      "at": "2026-10-17T02:00:45.553Z",
+      "at": "2026-10-17T02:01:09.807Z",
       "boatId": "catamaran-400-2027-boston",
       "title": "Dual Flyer 400",
       "builder": "Dual Flyer",
       "model": "400",
       "year": 2027,
       "action": "skip",
-      "note": ""
+      "note": "Not interested in boats that are not built yet"
     }
   }
 }
