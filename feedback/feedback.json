@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T01:41:04.059Z",
+  "updatedAt": "2026-10-18T01:41:54.815Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -570,6 +570,16 @@
       "year": 2007,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-18T01:41:54.815Z",
+      "boatId": "baltec-visionacatamaran-1999-belvedere-tiburon",
+      "title": "Baltec Visiona Catamaran",
+      "builder": "Baltec",
+      "model": "Visiona Catamaran",
+      "year": 1999,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -980,6 +990,16 @@
       "builder": "Dolphin",
       "model": "460",
       "year": 2007,
+      "action": "skip",
+      "note": ""
+    },
+    "baltec-visionacatamaran-1999-belvedere-tiburon": {
+      "at": "2026-10-18T01:41:54.815Z",
+      "boatId": "baltec-visionacatamaran-1999-belvedere-tiburon",
+      "title": "Baltec Visiona Catamaran",
+      "builder": "Baltec",
+      "model": "Visiona Catamaran",
+      "year": 1999,
       "action": "skip",
       "note": ""
     }
