@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T10:54:29.355Z",
+  "updatedAt": "2026-10-18T10:56:37.609Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -600,6 +600,16 @@
       "year": 2015,
       "action": "watch",
       "note": ""
+    },
+    {
+      "at": "2026-10-18T10:56:37.609Z",
+      "boatId": "catana-582-2001-messolonghi-greece",
+      "title": "Catana 582 Owner’s Version",
+      "builder": "Catana",
+      "model": "582 Owner’s Version",
+      "year": 2001,
+      "action": "watch",
+      "note": ""
     }
   ],
   "byId": {
@@ -1040,6 +1050,16 @@
       "builder": "Catana",
       "model": "42",
       "year": 2015,
+      "action": "watch",
+      "note": ""
+    },
+    "catana-582-2001-messolonghi-greece": {
+      "at": "2026-10-18T10:56:37.609Z",
+      "boatId": "catana-582-2001-messolonghi-greece",
+      "title": "Catana 582 Owner’s Version",
+      "builder": "Catana",
+      "model": "582 Owner’s Version",
+      "year": 2001,
       "action": "watch",
       "note": ""
     }
