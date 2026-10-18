@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T10:53:59.731Z",
+  "updatedAt": "2026-10-18T10:54:29.355Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -590,6 +590,16 @@
       "year": 2017,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-18T10:54:29.355Z",
+      "boatId": "catana-42-2015-pointe-pitre",
+      "title": "Catana 42",
+      "builder": "Catana",
+      "model": "42",
+      "year": 2015,
+      "action": "watch",
+      "note": ""
     }
   ],
   "byId": {
@@ -1021,6 +1031,16 @@
       "model": "43",
       "year": 2017,
       "action": "skip",
+      "note": ""
+    },
+    "catana-42-2015-pointe-pitre": {
+      "at": "2026-10-18T10:54:29.355Z",
+      "boatId": "catana-42-2015-pointe-pitre",
+      "title": "Catana 42",
+      "builder": "Catana",
+      "model": "42",
+      "year": 2015,
+      "action": "watch",
       "note": ""
     }
   }
