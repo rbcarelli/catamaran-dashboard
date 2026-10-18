@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T01:38:51.130Z",
+  "updatedAt": "2026-10-18T01:39:00.839Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -540,6 +540,16 @@
       "year": 2027,
       "action": "keep",
       "note": ""
+    },
+    {
+      "at": "2026-10-18T01:39:00.839Z",
+      "boatId": "catamaran-cruisers-islandhopper-2027-boston",
+      "title": "Catamaran Cruisers Island Hopper",
+      "builder": "Catamaran Cruisers",
+      "model": "Island Hopper",
+      "year": 2027,
+      "action": "watch",
+      "note": ""
     }
   ],
   "byId": {
@@ -934,13 +944,13 @@
       "note": "Not interested in boats that are not built yet"
     },
     "catamaran-cruisers-islandhopper-2027-boston": {
-      "at": "2026-10-18T01:38:51.130Z",
+      "at": "2026-10-18T01:39:00.839Z",
       "boatId": "catamaran-cruisers-islandhopper-2027-boston",
       "title": "Catamaran Cruisers Island Hopper",
       "builder": "Catamaran Cruisers",
       "model": "Island Hopper",
       "year": 2027,
-      "action": "keep",
+      "action": "watch",
       "note": ""
     }
   }
