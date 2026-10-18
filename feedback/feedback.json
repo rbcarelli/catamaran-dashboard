@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T01:39:57.725Z",
+  "updatedAt": "2026-10-18T01:41:04.059Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -560,6 +560,16 @@
       "year": 1998,
       "action": "watch",
       "note": "Confirm price. I like the interior layout of this model"
+    },
+    {
+      "at": "2026-10-18T01:41:04.059Z",
+      "boatId": "dolphin-460-2007-anavah",
+      "title": "Dolphin 460",
+      "builder": "Dolphin",
+      "model": "460",
+      "year": 2007,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -961,6 +971,16 @@
       "model": "Island Hopper",
       "year": 2027,
       "action": "watch",
+      "note": ""
+    },
+    "dolphin-460-2007-anavah": {
+      "at": "2026-10-18T01:41:04.059Z",
+      "boatId": "dolphin-460-2007-anavah",
+      "title": "Dolphin 460",
+      "builder": "Dolphin",
+      "model": "460",
+      "year": 2007,
+      "action": "skip",
       "note": ""
     }
   }
