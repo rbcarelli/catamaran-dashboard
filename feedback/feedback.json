@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T00:59:59.314Z",
+  "updatedAt": "2026-10-19T01:00:00.433Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -750,6 +750,16 @@
       "year": 2011,
       "action": "note",
       "note": "Located in Thailand"
+    },
+    {
+      "at": "2026-10-19T01:00:00.433Z",
+      "boatId": "privilege-495-2011-la-recompensa",
+      "title": "Privilege 495",
+      "builder": "Privilege",
+      "model": "495",
+      "year": 2011,
+      "action": "skip",
+      "note": "Located in Thailand"
     }
   ],
   "byId": {
@@ -1334,13 +1344,13 @@
       "note": ""
     },
     "privilege-495-2011-la-recompensa": {
-      "at": "2026-10-19T00:59:59.314Z",
+      "at": "2026-10-19T01:00:00.433Z",
       "boatId": "privilege-495-2011-la-recompensa",
       "title": "Privilege 495",
       "builder": "Privilege",
       "model": "495",
       "year": 2011,
-      "action": "note",
+      "action": "skip",
       "note": "Located in Thailand"
     }
   }
