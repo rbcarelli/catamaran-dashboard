@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T00:55:23.147Z",
+  "updatedAt": "2026-10-19T00:55:27.163Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -680,6 +680,16 @@
       "year": 2011,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-19T00:55:27.163Z",
+      "boatId": "solaris-42-1987-mauriah",
+      "title": "Solaris 42 Sunset",
+      "builder": "Solaris",
+      "model": "42 Sunset",
+      "year": 1987,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -1200,6 +1210,16 @@
       "builder": "Privilege",
       "model": "495",
       "year": 2011,
+      "action": "skip",
+      "note": ""
+    },
+    "solaris-42-1987-mauriah": {
+      "at": "2026-10-19T00:55:27.163Z",
+      "boatId": "solaris-42-1987-mauriah",
+      "title": "Solaris 42 Sunset",
+      "builder": "Solaris",
+      "model": "42 Sunset",
+      "year": 1987,
       "action": "skip",
       "note": ""
     }
