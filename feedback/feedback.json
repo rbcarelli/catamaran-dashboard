@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T01:00:32.021Z",
+  "updatedAt": "2026-10-19T01:00:36.592Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -770,6 +770,16 @@
       "year": 1992,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-19T01:00:36.592Z",
+      "boatId": "maine-cat-40-2002-bocas-del-toro-panama",
+      "title": "Maine Cat 40",
+      "builder": "Maine Cat",
+      "model": "40",
+      "year": 2002,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -1370,6 +1380,16 @@
       "builder": "Roger Simpson Design Henze Yard Germany",
       "model": "Roger Simpson 46",
       "year": 1992,
+      "action": "skip",
+      "note": ""
+    },
+    "maine-cat-40-2002-bocas-del-toro-panama": {
+      "at": "2026-10-19T01:00:36.592Z",
+      "boatId": "maine-cat-40-2002-bocas-del-toro-panama",
+      "title": "Maine Cat 40",
+      "builder": "Maine Cat",
+      "model": "40",
+      "year": 2002,
       "action": "skip",
       "note": ""
     }
