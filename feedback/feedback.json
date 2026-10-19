@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T00:17:15.621Z",
+  "updatedAt": "2026-10-19T00:17:25.927Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -620,6 +620,16 @@
       "year": 1991,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-19T00:17:25.927Z",
+      "boatId": "joubert-nivelt-52-1997-arawak",
+      "title": "Joubert-Nivelt 52",
+      "builder": "Joubert-Nivelt",
+      "model": "52",
+      "year": 1997,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -1080,6 +1090,16 @@
       "builder": "Crowther",
       "model": "46",
       "year": 1991,
+      "action": "skip",
+      "note": ""
+    },
+    "joubert-nivelt-52-1997-arawak": {
+      "at": "2026-10-19T00:17:25.927Z",
+      "boatId": "joubert-nivelt-52-1997-arawak",
+      "title": "Joubert-Nivelt 52",
+      "builder": "Joubert-Nivelt",
+      "model": "52",
+      "year": 1997,
       "action": "skip",
       "note": ""
     }
