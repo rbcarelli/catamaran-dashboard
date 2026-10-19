@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T10:56:37.609Z",
+  "updatedAt": "2026-10-19T00:17:15.621Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -610,6 +610,16 @@
       "year": 2001,
       "action": "watch",
       "note": ""
+    },
+    {
+      "at": "2026-10-19T00:17:15.621Z",
+      "boatId": "crowther-46-1991-westerly",
+      "title": "Crowther 46",
+      "builder": "Crowther",
+      "model": "46",
+      "year": 1991,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -1061,6 +1071,16 @@
       "model": "582 Owner’s Version",
       "year": 2001,
       "action": "watch",
+      "note": ""
+    },
+    "crowther-46-1991-westerly": {
+      "at": "2026-10-19T00:17:15.621Z",
+      "boatId": "crowther-46-1991-westerly",
+      "title": "Crowther 46",
+      "builder": "Crowther",
+      "model": "46",
+      "year": 1991,
+      "action": "skip",
       "note": ""
     }
   }
