@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T00:17:25.927Z",
+  "updatedAt": "2026-10-19T00:18:26.760Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -630,6 +630,16 @@
       "year": 1997,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-19T00:18:26.760Z",
+      "boatId": "outremer-42-2005-ivala",
+      "title": "Outremer 42",
+      "builder": "Outremer",
+      "model": "42",
+      "year": 2005,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -1100,6 +1110,16 @@
       "builder": "Joubert-Nivelt",
       "model": "52",
       "year": 1997,
+      "action": "skip",
+      "note": ""
+    },
+    "outremer-42-2005-ivala": {
+      "at": "2026-10-19T00:18:26.760Z",
+      "boatId": "outremer-42-2005-ivala",
+      "title": "Outremer 42",
+      "builder": "Outremer",
+      "model": "42",
+      "year": 2005,
       "action": "skip",
       "note": ""
     }
