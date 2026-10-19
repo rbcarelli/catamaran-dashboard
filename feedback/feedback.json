@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T00:59:16.538Z",
+  "updatedAt": "2026-10-19T00:59:22.556Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -720,6 +720,16 @@
       "year": 2006,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-19T00:59:22.556Z",
+      "boatId": "privilege-435-2001-hilton-head-island",
+      "title": "Privilege 435",
+      "builder": "Privilege",
+      "model": "435",
+      "year": 2001,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -1280,6 +1290,16 @@
       "builder": "Privilege",
       "model": "435",
       "year": 2006,
+      "action": "skip",
+      "note": ""
+    },
+    "privilege-435-2001-hilton-head-island": {
+      "at": "2026-10-19T00:59:22.556Z",
+      "boatId": "privilege-435-2001-hilton-head-island",
+      "title": "Privilege 435",
+      "builder": "Privilege",
+      "model": "435",
+      "year": 2001,
       "action": "skip",
       "note": ""
     }
