@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T00:19:34.153Z",
+  "updatedAt": "2026-10-19T00:20:35.108Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -660,6 +660,16 @@
       "year": 2017,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-19T00:20:35.108Z",
+      "boatId": "catana-47-2011-canet-en-roussillon",
+      "title": "Catana 47",
+      "builder": "Catana",
+      "model": "47",
+      "year": 2011,
+      "action": "watch",
+      "note": ""
     }
   ],
   "byId": {
@@ -1161,6 +1171,16 @@
       "model": "43",
       "year": 2017,
       "action": "skip",
+      "note": ""
+    },
+    "catana-47-2011-canet-en-roussillon": {
+      "at": "2026-10-19T00:20:35.108Z",
+      "boatId": "catana-47-2011-canet-en-roussillon",
+      "title": "Catana 47",
+      "builder": "Catana",
+      "model": "47",
+      "year": 2011,
+      "action": "watch",
       "note": ""
     }
   }
