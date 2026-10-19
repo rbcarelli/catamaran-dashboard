@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T00:55:38.932Z",
+  "updatedAt": "2026-10-19T00:58:41.618Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -700,6 +700,16 @@
       "year": 2003,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-19T00:58:41.618Z",
+      "boatId": "catana-582-2003-mariah",
+      "title": "Catana 582",
+      "builder": "Catana",
+      "model": "582",
+      "year": 2003,
+      "action": "watch",
+      "note": ""
     }
   ],
   "byId": {
@@ -1241,6 +1251,16 @@
       "model": "45 Danson",
       "year": 2003,
       "action": "skip",
+      "note": ""
+    },
+    "catana-582-2003-mariah": {
+      "at": "2026-10-19T00:58:41.618Z",
+      "boatId": "catana-582-2003-mariah",
+      "title": "Catana 582",
+      "builder": "Catana",
+      "model": "582",
+      "year": 2003,
+      "action": "watch",
       "note": ""
     }
   }
