@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T00:58:41.618Z",
+  "updatedAt": "2026-10-19T00:59:16.538Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -710,6 +710,16 @@
       "year": 2003,
       "action": "watch",
       "note": ""
+    },
+    {
+      "at": "2026-10-19T00:59:16.538Z",
+      "boatId": "privilege-435-2006-fort-lauderdale",
+      "title": "Privilege 435",
+      "builder": "Privilege",
+      "model": "435",
+      "year": 2006,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -1261,6 +1271,16 @@
       "model": "582",
       "year": 2003,
       "action": "watch",
+      "note": ""
+    },
+    "privilege-435-2006-fort-lauderdale": {
+      "at": "2026-10-19T00:59:16.538Z",
+      "boatId": "privilege-435-2006-fort-lauderdale",
+      "title": "Privilege 435",
+      "builder": "Privilege",
+      "model": "435",
+      "year": 2006,
+      "action": "skip",
       "note": ""
     }
   }
