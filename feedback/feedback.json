@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T00:59:22.556Z",
+  "updatedAt": "2026-10-19T00:59:35.984Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -730,6 +730,16 @@
       "year": 2001,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-19T00:59:35.984Z",
+      "boatId": "custom-53-1986-chaguaramas",
+      "title": "Custom 53",
+      "builder": "Custom",
+      "model": "53",
+      "year": 1986,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -1300,6 +1310,16 @@
       "builder": "Privilege",
       "model": "435",
       "year": 2001,
+      "action": "skip",
+      "note": ""
+    },
+    "custom-53-1986-chaguaramas": {
+      "at": "2026-10-19T00:59:35.984Z",
+      "boatId": "custom-53-1986-chaguaramas",
+      "title": "Custom 53",
+      "builder": "Custom",
+      "model": "53",
+      "year": 1986,
       "action": "skip",
       "note": ""
     }
