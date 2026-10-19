@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T01:00:36.592Z",
+  "updatedAt": "2026-10-19T01:00:44.874Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -780,6 +780,16 @@
       "year": 2002,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-19T01:00:44.874Z",
+      "boatId": "russell-yachtscrowther-1993-pensacola",
+      "title": "Russell Yachts Crowther",
+      "builder": "Russell",
+      "model": "Yachts Crowther",
+      "year": 1993,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -1390,6 +1400,16 @@
       "builder": "Maine Cat",
       "model": "40",
       "year": 2002,
+      "action": "skip",
+      "note": ""
+    },
+    "russell-yachtscrowther-1993-pensacola": {
+      "at": "2026-10-19T01:00:44.874Z",
+      "boatId": "russell-yachtscrowther-1993-pensacola",
+      "title": "Russell Yachts Crowther",
+      "builder": "Russell",
+      "model": "Yachts Crowther",
+      "year": 1993,
       "action": "skip",
       "note": ""
     }
