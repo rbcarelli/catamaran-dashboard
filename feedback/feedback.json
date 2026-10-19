@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T01:00:44.874Z",
+  "updatedAt": "2026-10-19T01:01:18.588Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -790,6 +790,16 @@
       "year": 1993,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-19T01:01:18.588Z",
+      "boatId": "privilege-49-2008-macera",
+      "title": "Privilege 49",
+      "builder": "Privilege",
+      "model": "49",
+      "year": 2008,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -1410,6 +1420,16 @@
       "builder": "Russell",
       "model": "Yachts Crowther",
       "year": 1993,
+      "action": "skip",
+      "note": ""
+    },
+    "privilege-49-2008-macera": {
+      "at": "2026-10-19T01:01:18.588Z",
+      "boatId": "privilege-49-2008-macera",
+      "title": "Privilege 49",
+      "builder": "Privilege",
+      "model": "49",
+      "year": 2008,
       "action": "skip",
       "note": ""
     }
