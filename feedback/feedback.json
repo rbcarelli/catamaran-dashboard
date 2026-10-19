@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T00:20:35.108Z",
+  "updatedAt": "2026-10-19T00:55:23.147Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -670,6 +670,16 @@
       "year": 2011,
       "action": "watch",
       "note": ""
+    },
+    {
+      "at": "2026-10-19T00:55:23.147Z",
+      "boatId": "privilege-495-2011-evolution",
+      "title": "Privilege 495",
+      "builder": "Privilege",
+      "model": "495",
+      "year": 2011,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -1181,6 +1191,16 @@
       "model": "47",
       "year": 2011,
       "action": "watch",
+      "note": ""
+    },
+    "privilege-495-2011-evolution": {
+      "at": "2026-10-19T00:55:23.147Z",
+      "boatId": "privilege-495-2011-evolution",
+      "title": "Privilege 495",
+      "builder": "Privilege",
+      "model": "495",
+      "year": 2011,
+      "action": "skip",
       "note": ""
     }
   }
