@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T01:00:00.433Z",
+  "updatedAt": "2026-10-19T01:00:32.021Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -760,6 +760,16 @@
       "year": 2011,
       "action": "skip",
       "note": "Located in Thailand"
+    },
+    {
+      "at": "2026-10-19T01:00:32.021Z",
+      "boatId": "roger-simpson-design-henze-yard-germany-46-1992-greece",
+      "title": "Roger Simpson Design Henze Yard Germany Roger Simpson 46",
+      "builder": "Roger Simpson Design Henze Yard Germany",
+      "model": "Roger Simpson 46",
+      "year": 1992,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -1352,6 +1362,16 @@
       "year": 2011,
       "action": "skip",
       "note": "Located in Thailand"
+    },
+    "roger-simpson-design-henze-yard-germany-46-1992-greece": {
+      "at": "2026-10-19T01:00:32.021Z",
+      "boatId": "roger-simpson-design-henze-yard-germany-46-1992-greece",
+      "title": "Roger Simpson Design Henze Yard Germany Roger Simpson 46",
+      "builder": "Roger Simpson Design Henze Yard Germany",
+      "model": "Roger Simpson 46",
+      "year": 1992,
+      "action": "skip",
+      "note": ""
     }
   }
 }
