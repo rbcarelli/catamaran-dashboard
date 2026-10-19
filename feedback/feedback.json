@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T00:18:39.711Z",
+  "updatedAt": "2026-10-19T00:19:34.153Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -650,6 +650,16 @@
       "year": 2003,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-19T00:19:34.153Z",
+      "boatId": "catana-43-2017-samao",
+      "title": "Catana 43",
+      "builder": "Catana",
+      "model": "43",
+      "year": 2017,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -1140,6 +1150,16 @@
       "builder": "Outremer",
       "model": "45",
       "year": 2003,
+      "action": "skip",
+      "note": ""
+    },
+    "catana-43-2017-samao": {
+      "at": "2026-10-19T00:19:34.153Z",
+      "boatId": "catana-43-2017-samao",
+      "title": "Catana 43",
+      "builder": "Catana",
+      "model": "43",
+      "year": 2017,
       "action": "skip",
       "note": ""
     }
