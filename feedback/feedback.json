@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T10:13:28.298Z",
+  "updatedAt": "2026-10-22T10:15:14.600Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -810,6 +810,16 @@
       "year": 2002,
       "action": "note",
       "note": "The link for this doesn't work"
+    },
+    {
+      "at": "2026-10-22T10:15:14.600Z",
+      "boatId": "catana-50-2007-canet-plage",
+      "title": "Catana 50",
+      "builder": "Catana",
+      "model": "50",
+      "year": 2007,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -1452,6 +1462,16 @@
       "year": 2002,
       "action": "note",
       "note": "The link for this doesn't work"
+    },
+    "catana-50-2007-canet-plage": {
+      "at": "2026-10-22T10:15:14.600Z",
+      "boatId": "catana-50-2007-canet-plage",
+      "title": "Catana 50",
+      "builder": "Catana",
+      "model": "50",
+      "year": 2007,
+      "action": "skip",
+      "note": ""
     }
   }
 }
