@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T10:18:57.933Z",
+  "updatedAt": "2026-10-22T10:19:08.945Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -900,6 +900,16 @@
       "year": 1993,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-22T10:19:08.945Z",
+      "boatId": "outremer-45-2002-kefalonia",
+      "title": "Outremer 45 Danson",
+      "builder": "Outremer",
+      "model": "45 Danson",
+      "year": 2002,
+      "action": "skip",
+      "note": "The link for this doesn't work"
     }
   ],
   "byId": {
@@ -1534,13 +1544,13 @@
       "note": ""
     },
     "outremer-45-2002-kefalonia": {
-      "at": "2026-10-22T10:13:28.298Z",
+      "at": "2026-10-22T10:19:08.945Z",
       "boatId": "outremer-45-2002-kefalonia",
       "title": "Outremer 45 Danson",
       "builder": "Outremer",
       "model": "45 Danson",
       "year": 2002,
-      "action": "note",
+      "action": "skip",
       "note": "The link for this doesn't work"
     },
     "catana-50-2007-canet-plage": {
