@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T10:19:08.945Z",
+  "updatedAt": "2026-10-22T10:19:13.967Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -910,6 +910,16 @@
       "year": 2002,
       "action": "skip",
       "note": "The link for this doesn't work"
+    },
+    {
+      "at": "2026-10-22T10:19:13.967Z",
+      "boatId": "catana-40-2018-imperia",
+      "title": "Catana 40",
+      "builder": "Catana",
+      "model": "40",
+      "year": 2018,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -1630,6 +1640,16 @@
       "builder": "Crowther",
       "model": "42",
       "year": 1993,
+      "action": "skip",
+      "note": ""
+    },
+    "catana-40-2018-imperia": {
+      "at": "2026-10-22T10:19:13.967Z",
+      "boatId": "catana-40-2018-imperia",
+      "title": "Catana 40",
+      "builder": "Catana",
+      "model": "40",
+      "year": 2018,
       "action": "skip",
       "note": ""
     }
