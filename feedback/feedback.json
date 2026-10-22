@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T10:15:59.988Z",
+  "updatedAt": "2026-10-22T10:16:25.924Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -840,6 +840,16 @@
       "year": 2002,
       "action": "skip",
       "note": "No daggerboards"
+    },
+    {
+      "at": "2026-10-22T10:16:25.924Z",
+      "boatId": "kelsall-58-2009-sitges",
+      "title": "Kelsall 58 Offshore Expedition Catamaran",
+      "builder": "Kelsall",
+      "model": "58 Offshore Expedition Catamaran",
+      "year": 2009,
+      "action": "note",
+      "note": "Broken link"
     }
   ],
   "byId": {
@@ -1502,6 +1512,16 @@
       "year": 2002,
       "action": "skip",
       "note": "No daggerboards"
+    },
+    "kelsall-58-2009-sitges": {
+      "at": "2026-10-22T10:16:25.924Z",
+      "boatId": "kelsall-58-2009-sitges",
+      "title": "Kelsall 58 Offshore Expedition Catamaran",
+      "builder": "Kelsall",
+      "model": "58 Offshore Expedition Catamaran",
+      "year": 2009,
+      "action": "note",
+      "note": "Broken link"
     }
   }
 }
