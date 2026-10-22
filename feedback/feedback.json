@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T10:15:54.040Z",
+  "updatedAt": "2026-10-22T10:15:59.988Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -830,6 +830,16 @@
       "year": 2002,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-22T10:15:59.988Z",
+      "boatId": "privilege-435-2002-grenada-caribbean",
+      "title": "Privilege 435",
+      "builder": "Privilege",
+      "model": "435",
+      "year": 2002,
+      "action": "skip",
+      "note": "No daggerboards"
     }
   ],
   "byId": {
@@ -1484,14 +1494,14 @@
       "note": ""
     },
     "privilege-435-2002-grenada-caribbean": {
-      "at": "2026-10-22T10:15:54.040Z",
+      "at": "2026-10-22T10:15:59.988Z",
       "boatId": "privilege-435-2002-grenada-caribbean",
       "title": "Privilege 435",
       "builder": "Privilege",
       "model": "435",
       "year": 2002,
       "action": "skip",
-      "note": ""
+      "note": "No daggerboards"
     }
   }
 }
