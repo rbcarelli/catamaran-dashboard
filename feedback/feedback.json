@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T10:17:11.580Z",
+  "updatedAt": "2026-10-22T10:18:37.233Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -860,6 +860,16 @@
       "year": 2001,
       "action": "watch",
       "note": ""
+    },
+    {
+      "at": "2026-10-22T10:18:37.233Z",
+      "boatId": "catana-582-2001-huelva-spain",
+      "title": "Catana 582",
+      "builder": "Catana",
+      "model": "582",
+      "year": 2001,
+      "action": "watch",
+      "note": ""
     }
   ],
   "byId": {
@@ -1536,6 +1546,16 @@
     "catana-582-2001-mersea": {
       "at": "2026-10-22T10:17:11.580Z",
       "boatId": "catana-582-2001-mersea",
+      "title": "Catana 582",
+      "builder": "Catana",
+      "model": "582",
+      "year": 2001,
+      "action": "watch",
+      "note": ""
+    },
+    "catana-582-2001-huelva-spain": {
+      "at": "2026-10-22T10:18:37.233Z",
+      "boatId": "catana-582-2001-huelva-spain",
       "title": "Catana 582",
       "builder": "Catana",
       "model": "582",
