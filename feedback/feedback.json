@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T10:15:14.600Z",
+  "updatedAt": "2026-10-22T10:15:54.040Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -820,6 +820,16 @@
       "year": 2007,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-22T10:15:54.040Z",
+      "boatId": "privilege-435-2002-grenada-caribbean",
+      "title": "Privilege 435",
+      "builder": "Privilege",
+      "model": "435",
+      "year": 2002,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -1470,6 +1480,16 @@
       "builder": "Catana",
       "model": "50",
       "year": 2007,
+      "action": "skip",
+      "note": ""
+    },
+    "privilege-435-2002-grenada-caribbean": {
+      "at": "2026-10-22T10:15:54.040Z",
+      "boatId": "privilege-435-2002-grenada-caribbean",
+      "title": "Privilege 435",
+      "builder": "Privilege",
+      "model": "435",
+      "year": 2002,
       "action": "skip",
       "note": ""
     }
