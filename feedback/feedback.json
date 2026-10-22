@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T10:18:46.260Z",
+  "updatedAt": "2026-10-22T10:18:50.810Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -880,6 +880,16 @@
       "year": 1999,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-22T10:18:50.810Z",
+      "boatId": "catana-582-2001-eidos-cat",
+      "title": "Catana 582",
+      "builder": "Catana",
+      "model": "582",
+      "year": 2001,
+      "action": "watch",
+      "note": ""
     }
   ],
   "byId": {
@@ -1581,6 +1591,16 @@
       "model": "55 Light Danson",
       "year": 1999,
       "action": "skip",
+      "note": ""
+    },
+    "catana-582-2001-eidos-cat": {
+      "at": "2026-10-22T10:18:50.810Z",
+      "boatId": "catana-582-2001-eidos-cat",
+      "title": "Catana 582",
+      "builder": "Catana",
+      "model": "582",
+      "year": 2001,
+      "action": "watch",
       "note": ""
     }
   }
