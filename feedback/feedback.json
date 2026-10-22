@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T10:16:25.924Z",
+  "updatedAt": "2026-10-22T10:17:11.580Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -850,6 +850,16 @@
       "year": 2009,
       "action": "note",
       "note": "Broken link"
+    },
+    {
+      "at": "2026-10-22T10:17:11.580Z",
+      "boatId": "catana-582-2001-mersea",
+      "title": "Catana 582",
+      "builder": "Catana",
+      "model": "582",
+      "year": 2001,
+      "action": "watch",
+      "note": ""
     }
   ],
   "byId": {
@@ -1522,6 +1532,16 @@
       "year": 2009,
       "action": "note",
       "note": "Broken link"
+    },
+    "catana-582-2001-mersea": {
+      "at": "2026-10-22T10:17:11.580Z",
+      "boatId": "catana-582-2001-mersea",
+      "title": "Catana 582",
+      "builder": "Catana",
+      "model": "582",
+      "year": 2001,
+      "action": "watch",
+      "note": ""
     }
   }
 }
