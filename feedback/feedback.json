@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T00:29:50.895Z",
+  "updatedAt": "2026-10-24T00:30:19.060Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -940,6 +940,16 @@
       "year": 2001,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-24T00:30:19.060Z",
+      "boatId": "maine-cat-47-2009-oysterland",
+      "title": "Maine Cat P-47",
+      "builder": "Maine Cat",
+      "model": "P-47",
+      "year": 2009,
+      "action": "note",
+      "note": "This is a power cat not sailboat"
     }
   ],
   "byId": {
@@ -1682,6 +1692,16 @@
       "year": 2001,
       "action": "skip",
       "note": ""
+    },
+    "maine-cat-47-2009-oysterland": {
+      "at": "2026-10-24T00:30:19.060Z",
+      "boatId": "maine-cat-47-2009-oysterland",
+      "title": "Maine Cat P-47",
+      "builder": "Maine Cat",
+      "model": "P-47",
+      "year": 2009,
+      "action": "note",
+      "note": "This is a power cat not sailboat"
     }
   }
 }
