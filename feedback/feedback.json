@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T00:29:15.629Z",
+  "updatedAt": "2026-10-24T00:29:50.895Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -930,6 +930,16 @@
       "year": 2023,
       "action": "ack-sold",
       "note": ""
+    },
+    {
+      "at": "2026-10-24T00:29:50.895Z",
+      "boatId": "alliaura-37-2001-scarlino",
+      "title": "Alliaura Privilege 37",
+      "builder": "Alliaura",
+      "model": "Privilege 37",
+      "year": 2001,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -1660,6 +1670,16 @@
       "builder": "Catana",
       "model": "40",
       "year": 2018,
+      "action": "skip",
+      "note": ""
+    },
+    "alliaura-37-2001-scarlino": {
+      "at": "2026-10-24T00:29:50.895Z",
+      "boatId": "alliaura-37-2001-scarlino",
+      "title": "Alliaura Privilege 37",
+      "builder": "Alliaura",
+      "model": "Privilege 37",
+      "year": 2001,
       "action": "skip",
       "note": ""
     }
