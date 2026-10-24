@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T10:19:13.967Z",
+  "updatedAt": "2026-10-24T00:29:15.629Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -920,6 +920,16 @@
       "year": 2018,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-24T00:29:15.629Z",
+      "boatId": "schionning-1280-2023-cahuna",
+      "title": "Schionning Arrow (Aarow) 1280S",
+      "builder": "Schionning",
+      "model": "Arrow (Aarow) 1280S",
+      "year": 2023,
+      "action": "ack-sold",
+      "note": ""
     }
   ],
   "byId": {
@@ -1094,13 +1104,13 @@
       "note": ""
     },
     "schionning-1280-2023-cahuna": {
-      "at": "2026-10-13T02:02:12.558Z",
+      "at": "2026-10-24T00:29:15.629Z",
       "boatId": "schionning-1280-2023-cahuna",
       "title": "Schionning Arrow (Aarow) 1280S",
       "builder": "Schionning",
       "model": "Arrow (Aarow) 1280S",
       "year": 2023,
-      "action": "watch",
+      "action": "ack-sold",
       "note": ""
     },
     "outremer-45-2016-big-turtle": {
