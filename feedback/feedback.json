@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T00:30:21.828Z",
+  "updatedAt": "2026-10-24T00:34:45.045Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -960,6 +960,16 @@
       "year": 2009,
       "action": "skip",
       "note": "This is a power cat not sailboat"
+    },
+    {
+      "at": "2026-10-24T00:34:45.045Z",
+      "boatId": "catamaran-52-8-2011-pampero",
+      "title": "Catamaran TS 52.8",
+      "builder": "Catamaran",
+      "model": "TS 52.8",
+      "year": 2011,
+      "action": "watch",
+      "note": ""
     }
   ],
   "byId": {
@@ -1712,6 +1722,16 @@
       "year": 2009,
       "action": "skip",
       "note": "This is a power cat not sailboat"
+    },
+    "catamaran-52-8-2011-pampero": {
+      "at": "2026-10-24T00:34:45.045Z",
+      "boatId": "catamaran-52-8-2011-pampero",
+      "title": "Catamaran TS 52.8",
+      "builder": "Catamaran",
+      "model": "TS 52.8",
+      "year": 2011,
+      "action": "watch",
+      "note": ""
     }
   }
 }
