@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T16:00:15.111Z",
+  "updatedAt": "2026-10-29T16:00:15.724Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -992,12 +992,12 @@
       "note": "Broken link"
     },
     {
-      "at": "2026-10-29T16:00:15.111Z",
-      "boatId": "catana-50-2007-canet-en-roussillon",
-      "title": "Catana 50",
+      "at": "2026-10-29T16:00:15.724Z",
+      "boatId": "catana-47-2017-port-saint-louis-du-rhone",
+      "title": "Catana 47",
       "builder": "Catana",
-      "model": "50",
-      "year": 2007,
+      "model": "47",
+      "year": 2017,
       "action": "watch",
       "note": ""
     }
@@ -1763,13 +1763,13 @@
       "action": "watch",
       "note": ""
     },
-    "catana-50-2007-canet-en-roussillon": {
-      "at": "2026-10-29T16:00:15.111Z",
-      "boatId": "catana-50-2007-canet-en-roussillon",
-      "title": "Catana 50",
+    "catana-47-2017-port-saint-louis-du-rhone": {
+      "at": "2026-10-29T16:00:15.724Z",
+      "boatId": "catana-47-2017-port-saint-louis-du-rhone",
+      "title": "Catana 47",
       "builder": "Catana",
-      "model": "50",
-      "year": 2007,
+      "model": "47",
+      "year": 2017,
       "action": "watch",
       "note": ""
     }
