@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T15:58:17.875Z",
+  "updatedAt": "2026-10-29T16:00:15.111Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -990,6 +990,16 @@
       "year": 2009,
       "action": "skip",
       "note": "Broken link"
+    },
+    {
+      "at": "2026-10-29T16:00:15.111Z",
+      "boatId": "catana-50-2007-canet-en-roussillon",
+      "title": "Catana 50",
+      "builder": "Catana",
+      "model": "50",
+      "year": 2007,
+      "action": "watch",
+      "note": ""
     }
   ],
   "byId": {
@@ -1750,6 +1760,16 @@
       "builder": "Catamaran",
       "model": "TS 52.8",
       "year": 2011,
+      "action": "watch",
+      "note": ""
+    },
+    "catana-50-2007-canet-en-roussillon": {
+      "at": "2026-10-29T16:00:15.111Z",
+      "boatId": "catana-50-2007-canet-en-roussillon",
+      "title": "Catana 50",
+      "builder": "Catana",
+      "model": "50",
+      "year": 2007,
       "action": "watch",
       "note": ""
     }
