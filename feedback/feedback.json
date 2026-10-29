@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T16:07:59.052Z",
+  "updatedAt": "2026-10-29T16:09:10.853Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -1060,6 +1060,16 @@
       "year": 2003,
       "action": "watch",
       "note": ""
+    },
+    {
+      "at": "2026-10-29T16:09:10.853Z",
+      "boatId": "christophe-barreau-catana-built-45-2001-modi",
+      "title": "Christophe Barreau (Catana-built) One-Off 45",
+      "builder": "Christophe Barreau (Catana-built)",
+      "model": "One-Off 45",
+      "year": 2001,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -1881,6 +1891,16 @@
       "model": "582",
       "year": 2003,
       "action": "watch",
+      "note": ""
+    },
+    "christophe-barreau-catana-built-45-2001-modi": {
+      "at": "2026-10-29T16:09:10.853Z",
+      "boatId": "christophe-barreau-catana-built-45-2001-modi",
+      "title": "Christophe Barreau (Catana-built) One-Off 45",
+      "builder": "Christophe Barreau (Catana-built)",
+      "model": "One-Off 45",
+      "year": 2001,
+      "action": "skip",
       "note": ""
     }
   }
