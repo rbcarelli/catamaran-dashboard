@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T16:04:16.307Z",
+  "updatedAt": "2026-10-29T16:05:56.836Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -1020,6 +1020,16 @@
       "year": 2005,
       "action": "watch",
       "note": ""
+    },
+    {
+      "at": "2026-10-29T16:05:56.836Z",
+      "boatId": "catana-46-1989-saint-tropez",
+      "title": "Catana 46",
+      "builder": "Catana",
+      "model": "46",
+      "year": 1989,
+      "action": "watch",
+      "note": ""
     }
   ],
   "byId": {
@@ -1800,6 +1810,16 @@
       "builder": "Catana",
       "model": "431",
       "year": 2005,
+      "action": "watch",
+      "note": ""
+    },
+    "catana-46-1989-saint-tropez": {
+      "at": "2026-10-29T16:05:56.836Z",
+      "boatId": "catana-46-1989-saint-tropez",
+      "title": "Catana 46",
+      "builder": "Catana",
+      "model": "46",
+      "year": 1989,
       "action": "watch",
       "note": ""
     }
