@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T16:06:18.060Z",
+  "updatedAt": "2026-10-29T16:07:03.873Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -1040,6 +1040,16 @@
       "year": 2004,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-10-29T16:07:03.873Z",
+      "boatId": "catana-50-2011-louarn",
+      "title": "Catana 50",
+      "builder": "Catana",
+      "model": "50",
+      "year": 2011,
+      "action": "watch",
+      "note": ""
     }
   ],
   "byId": {
@@ -1841,6 +1851,16 @@
       "model": "45",
       "year": 2004,
       "action": "skip",
+      "note": ""
+    },
+    "catana-50-2011-louarn": {
+      "at": "2026-10-29T16:07:03.873Z",
+      "boatId": "catana-50-2011-louarn",
+      "title": "Catana 50",
+      "builder": "Catana",
+      "model": "50",
+      "year": 2011,
+      "action": "watch",
       "note": ""
     }
   }
