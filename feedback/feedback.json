@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T13:19:43.695Z",
+  "updatedAt": "2026-11-05T23:33:49.248Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -1100,6 +1100,16 @@
       "year": 2007,
       "action": "watch",
       "note": ""
+    },
+    {
+      "at": "2026-11-05T23:33:49.248Z",
+      "boatId": "kelsall-47-1980-british-virgin-islands",
+      "title": "Kelsall 47",
+      "builder": "Kelsall",
+      "model": "47",
+      "year": 1980,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -1961,6 +1971,16 @@
       "model": "50",
       "year": 2007,
       "action": "watch",
+      "note": ""
+    },
+    "kelsall-47-1980-british-virgin-islands": {
+      "at": "2026-11-05T23:33:49.248Z",
+      "boatId": "kelsall-47-1980-british-virgin-islands",
+      "title": "Kelsall 47",
+      "builder": "Kelsall",
+      "model": "47",
+      "year": 1980,
+      "action": "skip",
       "note": ""
     }
   }
