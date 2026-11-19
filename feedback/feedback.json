@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T17:31:10.123Z",
+  "updatedAt": "2026-11-19T17:31:14.129Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -1130,6 +1130,16 @@
       "year": 2020,
       "action": "skip",
       "note": ""
+    },
+    {
+      "at": "2026-11-19T17:31:14.129Z",
+      "boatId": "gunboat-72-2025-yasasin",
+      "title": "Gunboat 72 flybridge",
+      "builder": "Gunboat",
+      "model": "72 flybridge",
+      "year": 2025,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -2010,6 +2020,16 @@
       "builder": "Gunboat",
       "model": "Gunboat 68",
       "year": 2020,
+      "action": "skip",
+      "note": ""
+    },
+    "gunboat-72-2025-yasasin": {
+      "at": "2026-11-19T17:31:14.129Z",
+      "boatId": "gunboat-72-2025-yasasin",
+      "title": "Gunboat 72 flybridge",
+      "builder": "Gunboat",
+      "model": "72 flybridge",
+      "year": 2025,
       "action": "skip",
       "note": ""
     }
