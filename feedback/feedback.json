@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T02:52:13.731Z",
+  "updatedAt": "2026-11-19T17:31:10.123Z",
   "items": [
     {
       "at": "2026-10-07T01:39:48.023Z",
@@ -1120,6 +1120,16 @@
       "year": 2023,
       "action": "ack-sold",
       "note": ""
+    },
+    {
+      "at": "2026-11-19T17:31:10.123Z",
+      "boatId": "gunboat-68-2020-seatilt",
+      "title": "Gunboat Gunboat 68",
+      "builder": "Gunboat",
+      "model": "Gunboat 68",
+      "year": 2020,
+      "action": "skip",
+      "note": ""
     }
   ],
   "byId": {
@@ -1990,6 +2000,16 @@
       "builder": "Kelsall",
       "model": "47",
       "year": 1980,
+      "action": "skip",
+      "note": ""
+    },
+    "gunboat-68-2020-seatilt": {
+      "at": "2026-11-19T17:31:10.123Z",
+      "boatId": "gunboat-68-2020-seatilt",
+      "title": "Gunboat Gunboat 68",
+      "builder": "Gunboat",
+      "model": "Gunboat 68",
+      "year": 2020,
       "action": "skip",
       "note": ""
     }
